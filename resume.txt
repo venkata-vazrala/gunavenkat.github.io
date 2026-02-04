@@ -1,0 +1,96 @@
+Venkata Gunasekhar Vazrala
+Dublin, IE | (+353) 0899595337 | venkatagunasekharv@gmail.com | linkedin.com/in/venkata-gunasekhar-v-8a1049193 | github.com/venkata-vazrala
+
+
+
+SOFTWARE ENGINEER – BACKEND, FRAMEWORKS & SIMULATION
+Software Engineer with strong experience in designing and developing automation, validation, and simulation frameworks for complex systems. Proven background in Python backend development, CI/CD pipelines, Linux-based infrastructure, and software build automation. Experienced in building scalable frameworks, backend APIs, and simulation platforms that significantly reduce release effort and improve system reliability. Currently pursuing an MSc in Electronic and Computer Technology (IoT) at Dublin City University.
+
+
+
+EXPERIENCE
+2024-2025	Texas Instruments. (Full Time - Onsite Contract)	Bengaluru, India
+Automation & Validation Engineer (06/2024-08/2025)
+Designed and enhanced Python-based automation and validation frameworks, reducing release effort by 95% through parallel execution and optimized resource utilization.
+Developed and maintained backend services and APIs supporting automation workflows, dashboards, and system reporting.
+Improved Django-based web dashboards, reducing load times by 60% and enabling real-time visibility into framework execution and system performance.
+Built framework-level automation for build validation, compliance checks, and report generation across 70+ configurations.
+Integrated frameworks with CI/CD pipelines (Jenkins, Docker) to enable continuous validation in Linux environments.
+Led end-to-end framework development, conducting design reviews and deploying scalable solutions adopted across teams.
+Collaborated cross-functionally with software, validation, and infrastructure teams to align framework architecture with product requirements.
+Technologies: Linux, Jenkins, Docker, Python, Django, Robot Framework, JavaScript, CI/CD
+
+2023-2025	Soliton Technologies. (Full Time)	Coimbatore, India
+Senior Project Engineer (06/2023-08/2025)
+Python and TestStand-based Post-Silicon Validation Framework
+Architected a Python and TestStand-based framework for post-silicon validation of 5+ sensor device models.
+Automated complex measurement workflows, reducing validation cycles by ~93%.
+Designed 20+ reusable framework templates and custom components, enabling scalable and repeatable validation.
+Built Python API abstractions for instrument sessions, improving modularity and framework reuse.
+Integrated framework with GitLab CI/CD, enabling automated updates and eliminating manual synchronization.
+Framework adopted by 10+ engineers across teams.
+Technologies: NI - LabVIEW, TestStand, Python and Gitlab CI/CD
+
+A Django-based web framework for Magnetic Sensors Simulation
+Developed a Django REST backend to simulate 25+ magnetic sensor models, with SQL-backed persistence.
+Achieved 90%+ unit test coverage, improving system reliability and reducing production defects.
+Automated build and deployment using Jenkins, ensuring consistent delivery timelines.
+Contributed to frontend components (HTML/CSS) and conducted load testing to optimize API performance.
+Technologies: Python (Django Rest Framework), SQL, HTML, CSS
+
+Engineering Intern (01/2023-05/2023)
+Assisted in development of automation and validation frameworks.
+Received extensive training in Python, LabVIEW, TestStand, Agile, and Scrum.
+Won 1st place in company-wide LabVIEW speed coding competition.
+2022	ICF. (Intern)	Chennai, India
+Worked on system-level diagnostics and repair of telecommunication devices and electronic components.
+Gained exposure to hardware troubleshooting and validation workflows.
+
+
+
+EDUCATION
+2025-Present	Dublin City University	Dublin, Ireland
+Master of Science in Electronic and Computer Technology (The Internet of Things -IOT), Expected 2026
+Part of Dublin City Volunteer
+2019-2023	RMK Engineering College - Anna University	Chennai, India
+Bachelor of Engineering in Electronics and Communication
+CGPA of  9.19
+Part of Embedded Systems COE
+Eco Club member, contributing to campus sustainability initiatives
+
+
+
+TECHNICAL SKILLS
+Programming: Python, C, C++, Rust
+Backend & Frameworks: Django, Flask, REST APIs, Automation Framework Development
+DevOps & Infrastructure: Linux, Git, Jenkins, Docker, CI/CD
+Validation & Simulation: TestStand, LabVIEW, Instrument Studio
+Hardware Interfaces: NI PXI, DMM, FGen, Scope, SMU, Thermostream
+
+
+
+LANGUAGES AND OTHER SKILLS
+Languages: English(advanced), Tamil(native), Telugu(native), Hindi (intermediate)
+Volunteering: Member of Bharat Scouts and Guides, Dublin City Volunteer
+
+
+
+PERSONAL/ACADEMIC PROJECTS
+Personal Expense Tracker
+A Flask-based application deployed on IBM Kubernetes using IBM tools to track personal expenses.
+
+
+Deep Learning Approach for Classification of Eye Diseases based on Color Fundus Images using MATLAB
+Developed a neural network solution for eye disease recognition, using MATLAB for data processing and deep learning implementation, achieving accurate detection for improved patient outcomes.
+
+
+Remote Communicator
+An Arduino-based project utilizing NRF modules to facilitate communication between houses in remote areas.
+
+
+Private Alert System
+A device based on an Arduino microcontroller and a SIM module, designed to serve as a helping hand in emergencies.
+
+
+Regenerative Braking System
+Generating power during the braking of vehicles by using a motor as a generator, with Arduino as a controller.
