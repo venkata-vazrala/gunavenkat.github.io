@@ -1,5 +1,5 @@
 Venkata Gunasekhar Vazrala
-Dublin, IE | (+353) 0899595337 | venkatagunasekharv@gmail.com | linkedin.com/in/venkata-gunasekhar-v-8a1049193 | github.com/venkata-vazrala
+Dublin, IE | (+353) 0899595337 | venkatagunasekharv@gmail.com | linkedin.com/in/venkata-vazrala | github.com/venkata-vazrala
 
 
 
@@ -76,6 +76,10 @@ Volunteering: Member of Bharat Scouts and Guides, Dublin City Volunteer
 
 
 PERSONAL/ACADEMIC PROJECTS
+Energy-Aware Federated TinyML on Edge Devices (MSc Research Project, DCU)
+Federated-learning simulation stack using Docker orchestration and the Flower framework to evaluate energy-accuracy trade-offs on embedded edge hardware (ESP32, Raspberry Pi 4, Arduino Nano 33 BLE), built with Python, PyTorch, NumPy, and Pandas.
+
+
 Personal Expense Tracker
 A Flask-based application deployed on IBM Kubernetes using IBM tools to track personal expenses.
 
