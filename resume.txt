@@ -77,7 +77,7 @@ Volunteering: Member of Bharat Scouts and Guides, Dublin City Volunteer
 
 PERSONAL/ACADEMIC PROJECTS
 Energy-Aware Federated TinyML on Edge Devices (MSc Research Project, DCU)
-Federated-learning simulation stack using Docker orchestration and the Flower framework to evaluate energy-accuracy trade-offs on embedded edge hardware (ESP32, Raspberry Pi 4, Arduino Nano 33 BLE), built with Python, PyTorch, NumPy, and Pandas.
+Federated-learning simulation stack using Docker orchestration and the Flower framework to evaluate energy-accuracy trade-offs on embedded edge hardware (Raspberry Pi 4, Arduino Nano 33 BLE), built with Python, PyTorch, NumPy, and Pandas.
 
 
 Personal Expense Tracker
